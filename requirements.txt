@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pandas
+scikit-learn
+python-multipart
+pydantic
+requests
+shap
+matplotlib
+seaborn
+groq
+python-dotenv
+protobuf>=6.31.1,<8.0.0

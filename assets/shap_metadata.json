@@ -1,0 +1,28 @@
+{
+    "top_features": [
+        {
+            "feature": "Bz",
+            "importance": 0.0014
+        },
+        {
+            "feature": "log_xrsb",
+            "importance": 0.0010
+        },
+        {
+            "feature": "By",
+            "importance": 0.0009
+        },
+        {
+            "feature": "xrsb_lag_1",
+            "importance": 0.0008
+        },
+        {
+            "feature": "xrsb_roll_mean_5",
+            "importance": 0.0007
+        }
+    ],
+    "summary_plot": "/assets/shap_summary_plot.png",
+    "importance_plot": "/assets/shap_feature_importance.png",
+    "total_features": 25,
+    "explanation": "SHAP values highlight the most influential telemetry features contributing to solar flare forecasting."
+}
